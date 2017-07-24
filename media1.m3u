@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,beINSPORTS-1HD.LOCAL
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/499.ts
+
